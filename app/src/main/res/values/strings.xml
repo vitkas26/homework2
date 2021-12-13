@@ -16,4 +16,6 @@
     <string name="_2">2</string>
     <string name="_6">6</string>
     <string name="_7">7</string>
+    <string name="delete">Del</string>
+    <string name="CE">CE</string>
 </resources>
